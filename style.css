@@ -1,17 +1,4 @@
-ul li {
-  float: left;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-ul li a {
-  display: block;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+button {
+  display: flex;
+  margin: 9px 0 9px 0;
 }
